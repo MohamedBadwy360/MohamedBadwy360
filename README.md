@@ -2,7 +2,7 @@
 
 I am a Mechatronics Engineer. I am passionate about data and believe in AI's power to improve people's lives.
 
-### You can find my Projects here: [Data Science Portoflio](https://github.com/MohamedBadwy360/Data-Science-Portoflio)
+### You can find my Projects here: [Data Science Portfolio](https://github.com/MohamedBadwy360/Data-Science-Portoflio)
 
 ---
 
