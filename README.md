@@ -1,8 +1,8 @@
 <h1 align="left"> Hi, I'm Mohamed Badwy 👋 </h1>
 
-I am a Mechatronics Engineer. I am passionate about data and believe in AI's power to improve people's lives.
+I am a Mechatronics Engineer. I am passionate about Software Engineering and its role in improving people's lives.
 
-### You can find my Projects here: [Data Science Portfolio](https://github.com/MohamedBadwy360/Data-Science-Portoflio)
+### You can find my Projects here: [Software Engineering Portfolio](https://github.com/MohamedBadwy360/Backend-Software-Engineer-Portfolio)
 
 ---
 
