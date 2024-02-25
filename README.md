@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, I'm Mohamed Badwy 👋 </h1>
 
-I graduated in Mechatronics Engineering. I am passionate about Software Engineering and its role in improving people's lives.
+I graduated in Mechatronics Engineering. I am passionate about Software Engineering and its role in improving people's lives. I’m seeking a challenging position in a big company where I would be able to improve myself and utilize my educational background and experience. I’m interested in learning more technologies about computer science and engineering.
 
 #### You can find my Projects here:   [Software Engineering Portfolio](https://github.com/MohamedBadwy360/Backend-Software-Engineer-Portfolio)
 
