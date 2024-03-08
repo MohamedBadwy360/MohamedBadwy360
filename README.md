@@ -2,7 +2,7 @@
 
 I graduated in Mechatronics Engineering. I am passionate about Software Engineering and its role in improving people's lives. I’m seeking a challenging position in a big company where I would be able to improve myself and utilize my educational background and experience. I’m interested in learning more technologies about computer science and engineering.
 
-#### You can find my Projects here:   [Software Engineering Portfolio](https://github.com/MohamedBadwy360/Software-Engineer-Portfolio)
+#### You can find my Projects here:   [Software Engineer Portfolio](https://github.com/MohamedBadwy360/Software-Engineer-Portfolio)
 
 ---
 
