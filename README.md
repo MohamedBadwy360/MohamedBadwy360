@@ -22,6 +22,8 @@ I graduated in Mechatronics Engineering. I am passionate about Software Engineer
 
 <img src="https://user-images.githubusercontent.com/19507241/64484929-d4b1cd80-d236-11e9-8bbe-1872b473bd64.png" alt="C# Logo" width="40" height="40"/> </a> 
 <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.jpg?raw=true" alt=".NET Logo" width="40" height="40"/> </a> 
+<img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true" alt="EntityFramework Core" width="40" height="40"/> </a> 
+<img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-MEDIUM_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png?raw=true" alt="ASP.NET Core" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
