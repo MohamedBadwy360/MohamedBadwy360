@@ -12,7 +12,6 @@ I graduated in Mechatronics Engineering. I am passionate about Software Engineer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamedbadwy360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed badwy linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohamedbadwy.elsaid.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed badwy facebook" height="30" width="40" /></a>
 <a href="https://twitter.com/mohamedbadwy360" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="mohamed badwy twitter" height="30" width="40" /></a>
 </p>
 
