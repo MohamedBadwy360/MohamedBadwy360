@@ -7,7 +7,7 @@ I graduated in Mechatronics Engineering. I am passionate about Software Engineer
 ---
 
 ### 📫 How to reach me: 
-    mohamedbadwy360@gmail.com
+    mohamedbadwy360@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
